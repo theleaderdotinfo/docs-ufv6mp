@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-b616r7.nuansa138win.space/sitemap.xml
